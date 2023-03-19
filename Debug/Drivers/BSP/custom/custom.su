@@ -1,0 +1,8 @@
+../Drivers/BSP/custom/custom.c:81:9:BSP_GetVersion	4	static
+../Drivers/BSP/custom/custom.c:95:9:BSP_COM_Init	24	static
+../Drivers/BSP/custom/custom.c:133:9:BSP_COM_DeInit	24	static
+../Drivers/BSP/custom/custom.c:170:26:MX_USART1_UART_Init	24	static
+../Drivers/BSP/custom/custom.c:272:9:BSP_COM_SelectLogPort	16	static
+../Drivers/BSP/custom/custom.c:318:5:__io_putchar	16	static
+../Drivers/BSP/custom/custom.c:331:13:USART1_MspInit	48	static
+../Drivers/BSP/custom/custom.c:367:13:USART1_MspDeInit	16	static
